@@ -1,0 +1,1 @@
+FastCourier is an integrated web-based courier management system that streamlines and automates couriering activities. It goes from package registration till the tracking of delivery. This feature has been implemented with user as well as administrator interfaces. Realtime tracking, automated sending of notifications, analytics reports.
